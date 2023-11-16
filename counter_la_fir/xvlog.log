@@ -1,0 +1,24 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ubuntu/lab-exmem_fir/rtl/header/defines.v" into library work
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ubuntu/lab-exmem_fir/rtl/header/user_defines.v" into library work
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ubuntu/lab-exmem_fir/rtl/user/user_project_wrapper.v" into library work
+INFO: [VRFC 10-311] analyzing module user_project_wrapper
+ERROR: [VRFC 10-1103] net type must be explicitly specified for 'wb_clk_i' when default_nettype is none [/home/ubuntu/lab-exmem_fir/rtl/user/user_project_wrapper.v:47]
+ERROR: [VRFC 10-3594] non-net port 'wb_clk_i' cannot be of mode input [/home/ubuntu/lab-exmem_fir/rtl/user/user_project_wrapper.v:47]
+ERROR: [VRFC 10-1103] net type must be explicitly specified for 'wb_rst_i' when default_nettype is none [/home/ubuntu/lab-exmem_fir/rtl/user/user_project_wrapper.v:48]
+ERROR: [VRFC 10-3594] non-net port 'wb_rst_i' cannot be of mode input [/home/ubuntu/lab-exmem_fir/rtl/user/user_project_wrapper.v:48]
+ERROR: [VRFC 10-1103] net type must be explicitly specified for 'wbs_stb_i' when default_nettype is none [/home/ubuntu/lab-exmem_fir/rtl/user/user_project_wrapper.v:49]
+ERROR: [VRFC 10-3594] non-net port 'wbs_stb_i' cannot be of mode input [/home/ubuntu/lab-exmem_fir/rtl/user/user_project_wrapper.v:49]
+ERROR: [VRFC 10-1103] net type must be explicitly specified for 'wbs_cyc_i' when default_nettype is none [/home/ubuntu/lab-exmem_fir/rtl/user/user_project_wrapper.v:50]
+ERROR: [VRFC 10-3594] non-net port 'wbs_cyc_i' cannot be of mode input [/home/ubuntu/lab-exmem_fir/rtl/user/user_project_wrapper.v:50]
+ERROR: [VRFC 10-1103] net type must be explicitly specified for 'wbs_we_i' when default_nettype is none [/home/ubuntu/lab-exmem_fir/rtl/user/user_project_wrapper.v:51]
+ERROR: [VRFC 10-3594] non-net port 'wbs_we_i' cannot be of mode input [/home/ubuntu/lab-exmem_fir/rtl/user/user_project_wrapper.v:51]
+ERROR: [VRFC 10-1103] net type must be explicitly specified for 'wbs_sel_i' when default_nettype is none [/home/ubuntu/lab-exmem_fir/rtl/user/user_project_wrapper.v:52]
+ERROR: [VRFC 10-3594] non-net port 'wbs_sel_i' cannot be of mode input [/home/ubuntu/lab-exmem_fir/rtl/user/user_project_wrapper.v:52]
+ERROR: [VRFC 10-1103] net type must be explicitly specified for 'wbs_dat_i' when default_nettype is none [/home/ubuntu/lab-exmem_fir/rtl/user/user_project_wrapper.v:53]
+ERROR: [VRFC 10-3594] non-net port 'wbs_dat_i' cannot be of mode input [/home/ubuntu/lab-exmem_fir/rtl/user/user_project_wrapper.v:53]
+ERROR: [VRFC 10-1103] net type must be explicitly specified for 'wbs_adr_i' when default_nettype is none [/home/ubuntu/lab-exmem_fir/rtl/user/user_project_wrapper.v:54]
+ERROR: [VRFC 10-3594] non-net port 'wbs_adr_i' cannot be of mode input [/home/ubuntu/lab-exmem_fir/rtl/user/user_project_wrapper.v:54]
+ERROR: [VRFC 10-1103] net type must be explicitly specified for 'wbs_ack_o' when default_nettype is none [/home/ubuntu/lab-exmem_fir/rtl/user/user_project_wrapper.v:55]
+ERROR: [VRFC 10-1103] net type must be explicitly specified for 'wbs_dat_o' when default_nettype is none [/home/ubuntu/lab-exmem_fir/rtl/user/user_project_wrapper.v:56]
+ERROR: [VRFC 10-1103] net type must be explicitly specified for 'la_data_in' when default_nettype is none [/home/ubuntu/lab-exmem_fir/rtl/user/user_project_wrapper.v:59]
+INFO: [#UNDEF] Sorry, too many errors..
